@@ -19,8 +19,8 @@ I'm a passionate **Software Engineering student**, developer, and data science e
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nfaly-sylla) <!-- Replace # with your LinkedIn URL -->
-- [Instagram](www.instagram.com/sylla.rmss) <!-- Replace # with your Twitter URL -->
-- [Personal Website](syllanfaly.netlify.app) <!-- Replace # with your website if you have one -->
+- [Instagram](https://www.instagram.com/sylla.rmss) <!-- Replace # with your Twitter URL -->
+- [Personal Website](https://syllanfaly.netlify.app) <!-- Replace # with your website if you have one -->
 
 ### 📝 Bio / Tagline
 > “Driven by curiosity, powered by code. Always learning, always building.”
