@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm rmss00-2synf!
+# 👋 Hi there, I'm SYLLA!
 
 ### 🚀 About Me
 I'm a passionate **Software Engineering student**, developer, and data science enthusiast based in [Your Location]. I love building things that make a difference, whether it's a full-stack web app, a smart data-driven solution, or a mobile tool that fits in your pocket.
