@@ -18,7 +18,7 @@ I'm a passionate **Software Engineering student**, developer, and data science e
 - 🗣️ I enjoy oratory and public speaking.
 
 ### 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/nfaly-sylla) <!-- Replace # with your LinkedIn URL -->
+- [LinkedIn](https://www.linkedin.com/in/nfaly-sylla) <!-- Replace # with your LinkedIn URL -->
 - [Instagram](www.instagram.com/sylla.rmss) <!-- Replace # with your Twitter URL -->
 - [Personal Website](syllanfaly.netlify.app) <!-- Replace # with your website if you have one -->
 
