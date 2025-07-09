@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm SYLLA!
 
 ### 🚀 About Me
-I'm a passionate **Software Engineering student**, developer, and data science enthusiast based in [Your Location]. I love building things that make a difference, whether it's a full-stack web app, a smart data-driven solution, or a mobile tool that fits in your pocket.
+I'm a passionate **Software Engineering student**, developer, and data science enthusiast based in Tangier, Morocco. I love building things that make a difference, whether it's a full-stack web app, a smart data-driven solution, or a mobile tool that fits in your pocket.
 
 - 🎓 **Aspiring Software Engineer & Data Scientist**
 - 💻 **Full-Stack Developer**
@@ -18,9 +18,9 @@ I'm a passionate **Software Engineering student**, developer, and data science e
 - 🗣️ I enjoy oratory and public speaking.
 
 ### 🌐 Connect with Me
-- [LinkedIn](#) <!-- Replace # with your LinkedIn URL -->
-- [Twitter](#) <!-- Replace # with your Twitter URL -->
-- [Personal Website / Portfolio](#) <!-- Replace # with your website if you have one -->
+- [LinkedIn](www.linkedin.com/in/nfaly-sylla) <!-- Replace # with your LinkedIn URL -->
+- [Instagram](www.instagram.com/sylla.rmss) <!-- Replace # with your Twitter URL -->
+- [Personal Website](syllanfaly.netlify.app) <!-- Replace # with your website if you have one -->
 
 ### 📝 Bio / Tagline
 > “Driven by curiosity, powered by code. Always learning, always building.”
