@@ -1,32 +1,9 @@
-# 👋 Hi there, I'm SYLLA!
+# 👋 Hey, I’m SYLLA N'faly
 
-### 🚀 About Me
-I'm a passionate **Software Engineering student**, developer, and data science enthusiast based in Tangier, Morocco. I love building things that make a difference, whether it's a full-stack web app, a smart data-driven solution, or a mobile tool that fits in your pocket.
+🚀 Aspiring Software Engineer | Data & AI Enthusiast  
+🛠️ Full-Stack Dev · ML Explorer · Code Lover  
+🌍 Based in Tangier, Morocco
 
-- 🎓 **Aspiring Software Engineer & Data Scientist**
-- 💻 **Full-Stack Developer**
-- 🧠 **Machine Learning Explorer**
+💡 *“Curious mind. Clean code. Big dreams.”*
 
-### 🛠️ My Top Skills
-- **Languages:** Python, Java (Spring Boot), C# (.NET)
-- **Web & App:** Full-Stack Development, Mobile Development
-- **Other:** Software Architecture, Machine Learning
-
-### ⚡ Fun Facts & Interests
-- 📐 I’m deeply interested in mathematics.
-- ⚽ I love playing and watching football (soccer).
-- 🗣️ I enjoy oratory and public speaking.
-
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nfaly-sylla) <!-- Replace # with your LinkedIn URL -->
-- [Instagram](https://www.instagram.com/sylla.rmss) <!-- Replace # with your Twitter URL -->
-- [Personal Website](https://syllanfaly.netlify.app) <!-- Replace # with your website if you have one -->
-
-### 📝 Bio
-> “Driven by curiosity, powered by code. Always learning, always building.”
-
----
-
-<!--
-**rmss00-2synf/rmss00-2synf** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+🔗 [Website](https://syllanfaly.netlify.app) • [LinkedIn](https://www.linkedin.com/in/nfaly-sylla) • [Instagram](https://www.instagram.com/sylla.rmss)
