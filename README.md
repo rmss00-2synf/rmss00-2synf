@@ -5,4 +5,4 @@
 
 💡 *“Curious mind. Clean code. Big dreams.”*
 
-🔗 [Website](https://syllanfaly.netlify.app) • [LinkedIn](https://www.linkedin.com/in/nfaly-sylla) • [Instagram](https://www.instagram.com/sylla.rmss)
+🔗 [Website](https://syllanfaly.netlify.app) • [LinkedIn](https://www.linkedin.com/in/nfaly-sylla) • [Instagram](https://www.instagram.com/8sylla)
