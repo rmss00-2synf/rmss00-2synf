@@ -2,7 +2,6 @@
 
 🚀 Aspiring Software Engineer | Data & AI Enthusiast  
 🛠️ Full-Stack Dev · ML Explorer · Code Lover  
-🌍 Based in Tangier, Morocco
 
 💡 *“Curious mind. Clean code. Big dreams.”*
 
