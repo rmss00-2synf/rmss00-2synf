@@ -1,4 +1,4 @@
-# 👋 Hey, I’m SYLLA N'faly
+## 👋 Hey, I’m SYLLA
 
 🚀 Aspiring Software Engineer | Data & AI Enthusiast  
 🛠️ Full-Stack Dev · ML Explorer · Code Lover  
