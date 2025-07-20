@@ -1,7 +1,7 @@
-## 👋 Hey, I’m SYLLA
+# 👋 Hey, I’m SYLLA
 
- • Software Engineer | Data & AI Enthusiast  
- • Full-Stack Dev · ML · Code Lover  
+• Software Engineer | Data & AI Enthusiast  
+• Full-Stack Dev · ML · Code Lover  
 
 💡 *“Curious mind. Clean code. Big dreams.”*
 
